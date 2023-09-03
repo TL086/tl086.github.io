@@ -1,5 +1,5 @@
 export function about(root) {
-  root.innerHTML = `<div class="header-title" id="centered-header">About</div>'
+  root.innerHTML = `<div class="header-title" id="centered-header">About</div>
     <div class="contentcontainer">
     <p>"Ava to the rescue" is a project developed by Catarina Maia, Mariana Nunes, Jorge Guedes and Tiago Lourenco as a final project for the studIO,
      a 25-week asynchronous peer-to-peer full-stack online study program from Academia de Codigo.
